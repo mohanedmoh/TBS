@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f44336</color>
+    <color name="colorPrimaryDark">#cc3226</color>
+    <color name="colorUnActive">#8c5d52</color>
+    <color name="primary_light">#ff5649</color>
+    <color name="colorAccent">#322e25</color>
+    <color name="primary_text">#000000</color>
+    <color name="secondary_text">#424242</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="white">#ffffff</color>
+    <color name="bgwhite">#ebebeb</color>
+    <color name="success_bg">#e7f3ff</color>
+    <color name="trans60">#1A000000</color>
+    <color name="loading_color">#33000000</color>
+
+    <color name="colorPrimaryPix">@color/colorPrimary</color>
+    <color name="colorPrimaryLightPix">@color/colorPrimaryDark</color>
+
+    <color name="text_focused">#E91E63</color>
+    <color name="text_default">#F8BBD0</color>
+    <color name="text_hint_default">#BDBDBD</color>
+    <color name="line_selected">#E91E63</color>
+    <color name="line_focused">#3F51B5</color>
+    <color name="line_default">#C5CAE9</color>
+    <color name="card">#3F51B5</color>
+
+    <color name="editText_background">#1A000000</color>
+    <color name="success_btn_background">#99000000</color>
+    <color name="colorForeground">#ffffff</color>
+
+    <color name="bg_line">#E7E7E7</color>
+    <color name="bg_color">#FF99DCD7</color>
+
+    <color name="cell_background_color">#ffffff</color>
+    <color name="cell_text_color">#1f1f1f</color>
+    <color name="header_line_color">@color/colorPrimary</color>
+
+
+    <!-- Material Design TableView Colors -->
+    <color name="md_cell_text_color">#1f1f1f</color>
+    <color name="md_column_header_text_color">#696969</color>
+    <color name="md_highlight_row_background_color">#EEEEEE</color>
+    <color name="md_selected_background_color">#F5F5F5</color>
+    <color name="md_cell_line_color">#dbdbdb</color>
+
+    <!-- Overriding the default values of the tableView -->
+    <!-- <color name="cell_line_color">#dbdbdb</color> -->
+    <!-- <color name="table_view_selected_background_color">@color/md_selected_background_color</color> -->
+    <color name="default_background_color">@color/cell_background_color</color>
+    <color name="table_view_default_text_color">@color/primary_text</color>
+    <color name="table_view_default_separator_color">#B1B1B1</color>
+    <color name="unselected_background_color">#ffffff</color>
+    <color name="selected_background_color">@color/primary_light</color>
+    <color name="shadow_background_color">#f2f2f2</color>
+    <color name="chartBlue">#006bb8</color>
+</resources>

@@ -1,0 +1,43 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowActionBar">true</item>
+        <item name="windowNoTitle">false</item>
+        <item name="cardViewStyle">@style/BottomNavigation</item>
+        <item name="android:textColorPrimary">@color/primary_text</item>
+        <item name="android:screenOrientation">portrait</item>
+    </style>
+
+    <style name="Divider">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/divider</item>
+    </style>
+
+    <style name="cardViewStyle"/>
+
+
+    <style name="BottomNavigation">
+        <item name="android:background">@color/white</item>
+        <item name="itemBackground">@color/white</item>
+        <item name="itemIconTint">@color/primary_text</item>
+        <item name="itemTextColor">@color/primary_text</item>
+    </style>
+    <style name="mainAppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowActionBar">true</item>
+        <item name="windowNoTitle">true</item>
+        <item name="cardViewStyle">@style/BottomNavigation</item>
+        <item name="android:textColorPrimary">@color/primary_text</item>
+        <item name="android:screenOrientation">portrait</item>
+    </style>
+    <style name="MyToolbarTheme"
+        parent="@style/ThemeOverlay.AppCompat.Dark">
+        <item name="colorControlNormal">@color/white</item>
+        <item name="titleTextColor">@color/white</item>
+    </style>
+</resources>
