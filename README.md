@@ -1,4 +1,4 @@
-# Hababak
+# TBS 
 Is a reporting mobile application for Mechatronics ERP System (TBS) to dynamically generate and show reports according to organisation’s sections or units such as finance, inventory, sales and purchases.
 
 ## Installation
